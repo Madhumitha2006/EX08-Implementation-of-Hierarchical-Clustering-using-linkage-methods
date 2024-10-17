@@ -16,12 +16,6 @@ To implement Hierarchical Clustering using single and complete linkage method
 
 4.Repeat steps 2 and 3 until only one cluster remains.
 
-
-
-
-
-
-
 ## Program:
 ```
 Program to implement Hierarchical Clustering using single and complete linkage method
